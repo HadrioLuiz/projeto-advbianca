@@ -1,10 +1,10 @@
 import React from 'react';
-import MyNav from '@/Components/Nav';
-import MyHome from '@/Components/Home';
+import MyNav from '@/app/Components/Nav';
+import MyHome from '@/app/Components/Home';
 import MyPublications from '@/Components/Publications';
-import MyAbout from '@/Components/About';
-import MyContact from '@/Components/Contact';
-import MyFooter from '@/Components/Footer';
+import MyAbout from '@/app/Components/About';
+import MyContact from '@/app/Components/Contact';
+import MyFooter from '@/app/Components/Footer';
 
 const LawyerLandingPage = () => {
   return (
