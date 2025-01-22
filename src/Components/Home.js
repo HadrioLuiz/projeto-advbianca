@@ -3,7 +3,7 @@ import PeopleJustice from "../Img/peopleJustice.png";
 
 const MyHome = () => {
     return (
-        <div className="grid grid-flow-col gap-2 bg-gradient-to-r from-green-200 to-green-300 h-full pt-36 mx-auto px-4">
+        <div className="grid grid-flow-col gap-2 bg-gradient-to-r from-[#a0d981] to-[#88bb6d] h-full pt-36 mx-auto px-4">
             <div className="justify-center items-center ml-28 mt-10 pb-32">
                 <Image
                     src={PeopleJustice}

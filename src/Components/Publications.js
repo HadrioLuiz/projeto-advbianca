@@ -2,7 +2,7 @@ import { Book } from 'lucide-react';
 
 const MyPublications = () => {
     return (
-        <div className="gap-2 bg-gradient-to-r from-green-200 to-green-300 h-full p-5 pt-36 pb-10 mx-auto">
+        <div className="gap-2 bg-gradient-to-r from-[#a0d981] to-[#88bb6d] h-full p-5 pt-36 pb-10 mx-auto">
             <h2 className="text-3xl font-bold text-center text-black mb-12 flex justify-center items-center">
                 <Book className="mr-4" /> Minhas Publicações
             </h2>

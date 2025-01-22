@@ -3,7 +3,7 @@ import BiancaPerfil from "../Img/BiancaPerfil.png";
 
 const MyAbout = () => {
     return (
-        <div className="grid grid-flow-col gap-1 bg-gradient-to-r from-green-200 to-green-300 h-full pt-36">
+        <div className="grid grid-flow-col gap-1 bg-gradient-to-r from-[#a0d981] to-[#88bb6d] h-full pt-36">
             <div className="ml-44 mt-[-50px] pb-32">
                 <Image src={BiancaPerfil} alt="Bianca Santos de Souza" />
             </div>
