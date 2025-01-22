@@ -1,6 +1,4 @@
-import React from "react";
 import Image from "next/image";
-import BooksJustice from "../Img/BooksJustice.png";
 import PeopleJustice from "../Img/peopleJustice.png";
 
 const MyHome = () => {
