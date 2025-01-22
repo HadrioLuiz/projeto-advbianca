@@ -1,15 +1,16 @@
 import React from "react";
 import Image from "next/image";
-import Justice from  "../Img/Justice.png"
+import BooksJustice from "../Img/BooksJustice.png";
+import PeopleJustice from "../Img/PeopleJustice.png";
 
 const MyHome = () => {
     return (
         <div className="grid grid-flow-col gap-2 bg-gradient-to-r from-green-200 to-green-300 h-full pt-36 mx-auto px-4">
-            <div className="justify-center items-center ml-64 pb-32">
+            <div className="justify-center items-center ml-28 mt-10 pb-32">
                 <Image
-                    src={Justice}
-                    alt="Bianca Santos"
-                    height={500}
+                    src={PeopleJustice}
+                    alt="Pilha de livros"
+                    height={400}
                 />
             </div>
             <div className="text-center justify-center mt-32 mr-44">

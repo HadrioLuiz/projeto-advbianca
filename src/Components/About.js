@@ -8,7 +8,13 @@ const MyAbout = () => {
                 <Image src={BiancaPerfil} alt="Bianca Santos de Souza" />
             </div>
             <div>
-                <h1 className="text-black">Texto sobre mim</h1>
+                <h1 className="text-black p-20">
+                    Eu me chamo Bianca Santos e sou advogada (OAB 4419/AP), servidora da procuradoria estadual e
+                    mestranda em justiça e direitos humanos. Tenho 28 anos e me divido entre as atividades acadêmicas e jurídicas.
+                    Dois universos que adoro participar e nos quais eu me engajo para realizar o melhor apesar dos desafios:
+                    seja nos projetos ou nas minutas processais. Sou experiente na área de recursos aos Tribunais Superiores e
+                    espero poder colaborar nestas atividades com novos parceiros ou clientes!
+                </h1>
             </div>
         </div>
     )
